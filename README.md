@@ -28,7 +28,6 @@ This repository contains the detailed design, calculation, and simulation report
   - Caliper and disc selection based on performance and packaging constraints  
 - **Simulation Reports:**  
   - Thermal and structural FEA of the brake disc
-  - 
 ---
 
 ## Tools Used
