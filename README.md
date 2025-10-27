@@ -31,7 +31,7 @@ This repository contains the detailed design, calculation, and simulation report
   - 
 ---
 
-## 🧩 Tools Used
+## Tools Used
 - **SolidWorks** — 3D CAD modeling  
 - **Ansys Mechanical** — Thermal and structural analysis of braking components  
 
